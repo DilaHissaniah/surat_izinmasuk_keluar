@@ -13,6 +13,8 @@ login untuk admin
 login untuk user
 
 ![image](https://user-images.githubusercontent.com/97661073/162896260-af17ed31-120f-4368-b348-9a7a5925038b.png) 
+user tidak bisa menambah data,edit data dan hapus
+
 ![image](https://user-images.githubusercontent.com/97661073/162896296-eac74b5b-41ad-4277-a8be-824a23a405f4.png)
 ![image](https://user-images.githubusercontent.com/97661073/162897200-dfec325e-a6ba-40a0-8912-f6d37da5fa7b.png)
 ![image](https://user-images.githubusercontent.com/97661073/162896402-7b6039a6-2bef-4db3-8cf3-9619713e5790.png)
