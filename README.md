@@ -8,10 +8,10 @@ login untuk admin
 ![image](https://user-images.githubusercontent.com/97661073/162896047-f37f9acd-e5e2-4682-a541-4e7e86789536.png)
 ![image](https://user-images.githubusercontent.com/97661073/162896115-55f8e1a1-7fba-43af-a4ca-9900c5353239.png)
 ![image](https://user-images.githubusercontent.com/97661073/162896167-b87e2edd-974f-4ba2-bcfe-fb7979a15e26.png)
+![image](https://user-images.githubusercontent.com/97661073/162896202-589b39a3-6837-4676-8160-49bcee3c4007.png)
 
 login untuk user
 
-![image](https://user-images.githubusercontent.com/97661073/162896202-589b39a3-6837-4676-8160-49bcee3c4007.png)
 ![image](https://user-images.githubusercontent.com/97661073/162896260-af17ed31-120f-4368-b348-9a7a5925038b.png) 
 ![image](https://user-images.githubusercontent.com/97661073/162896296-eac74b5b-41ad-4277-a8be-824a23a405f4.png)
 ![image](https://user-images.githubusercontent.com/97661073/162897200-dfec325e-a6ba-40a0-8912-f6d37da5fa7b.png)
